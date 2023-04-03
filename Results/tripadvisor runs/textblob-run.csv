@@ -1,0 +1,18 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Textblob\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Textblob\main.py" 
+Predicted   1    2     3      4     5    All
+Actual                                      
+1          13  117  1005    274    12   1421
+2           3   26  1010    737    17   1793
+3           0   11   797   1337    39   2184
+4           0    7  1249   4545   238   6039
+5           3   10  1483   6854   704   9054
+All        19  171  5544  13747  1010  20491
+Precision: 0.48
+Recall: 0.30
+F1 score: 0.22
+Accuracy: 0.2969596408179201
+time taken by model, 15.935753107070923
+
+Process finished with exit code 0
+
+ in the second row, there were 3 reviews with an actual rating of 2 that were correctly predicted as 2, 26 reviews with an actual rating of 2 that were predicted as 1, 1010 reviews with an actual rating of 2 that were predicted as 3, 737 reviews with an actual rating of 2 that were predicted as 4, and 17 reviews with an actual rating of 2 that were predicted as 5. The total number of reviews with an actual rating of 2 is 1793, which is the sum of the counts in the second row.

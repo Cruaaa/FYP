@@ -1,0 +1,18 @@
+C:\Users\lmurr\AppData\Local\Programs\Python\Python39\python.exe "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\VADER implementation\main.py" 
+(20491, 2)
+(20491, 2)
+Accuracy, 0.4589331901810551
+Precision, 0.3462126518458628
+Recall, 0.4589331901810551
+F1 score, 0.3294297624424032
+Total number correct of predictions by model 9404
+Predicted    1    2    3    4     5
+Actual                             
+1          296  167  148  205   605
+2          105  113  108  171  1296
+3           31   41   48  127  1937
+4           14   19   30  135  5841
+5            5   22   48  167  8812
+time taken by model, 200.95576858520508
+
+Process finished with exit code 0

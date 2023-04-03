@@ -1,0 +1,26 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+(20491, 2)
+
+
+
+STATISTICS FOR SVM MODEL
+Accuracy score, 53.27%
+Precision for negative class, 52.57%
+Precision for positive class, 52.57%
+Recall for negative class, 53.27%
+Recall for positive class, 53.27%
+F1 score for negative class, 52.85%
+F1 score for positive class, 52.85%
+Confusion matrix,
+C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\lib\site-packages\sklearn\svm\_base.py:1244: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+kfold accuracy, [0.55772358 0.54989154 0.55639913 0.54067245 0.53741866 0.54501085
+ 0.55748373 0.55260304 0.55206074 0.56127983]
+[[ 73  31   9  16   5]
+ [ 34  40  43  31  18]
+ [ 10  39  67  94  35]
+ [  8  20  65 292 233]
+ [  9  12  16 230 620]]
+time taken by model, 107.744313955307
+
+Process finished with exit code 0

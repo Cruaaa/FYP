@@ -1,0 +1,17 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+(20491, 2)
+(2050,) (2050,)
+(18441,) (18441,)
+STATISTICS FOR MNB MODEL
+Accuracy score, 42.93%
+Precision for negative class, 75.50%
+Precision for positive class, 75.50%
+Recall for negative class, 42.93%
+Recall for positive class, 42.93%
+F1 score for negative class, 25.79%
+F1 score for positive class, 25.79%
+time taken by model, 0.32300543785095215
+kfold accuracy, [0.44336043 0.44360087 0.44360087 0.44360087 0.44305857 0.44305857
+ 0.44305857 0.44305857 0.44305857 0.44305857]
+
+Process finished with exit code 0

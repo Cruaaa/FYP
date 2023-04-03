@@ -1,0 +1,20 @@
+(50000, 2)
+(50000, 2)
+Positive Predictions,
+Precision,0.290523448
+Recall,0.23888
+F1 score,0.262182808
+,
+Negative Predictions,
+Precision,0.353756283
+Recall,0.41664
+F1 score,0.382631695
+Total number correct of predictions by model,16388
+Predicted  negative  positive,
+Actual                       ,
+negative      10416     14584,
+positive      19028      5972,
+time taken by model,494.2950552
+Accuracy,
+,
+Process finished with exit code 0,

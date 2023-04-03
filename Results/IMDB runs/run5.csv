@@ -1,0 +1,56 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+(5000,) (5000,)
+(45000,) (45000,)
+STATISTICS FOR MNB MODEL
+Accuracy score, 85.26%
+Precision for negative class, 84.70%
+Precision for positive class, 85.86%
+Recall for negative class, 86.41%
+Recall for positive class, 84.09%
+F1 score for negative class, 85.55%
+F1 score for positive class, 84.96%
+Confusion matrix,
+kfold accuracy, [0.86222222 0.87177778 0.86377778 0.86955556 0.86088889 0.86
+ 0.86022222 0.85444444 0.84755556 0.86177778]
+[[2181  343]
+ [ 394 2082]]
+time taken by model, 1.371997594833374
+
+
+
+STATISTICS FOR SVM MODEL
+Accuracy score, 89.00%
+Precision for negative class, 90.06%
+Precision for positive class, 87.97%
+Recall for negative class, 87.92%
+Recall for positive class, 90.11%
+F1 score for negative class, 88.97%
+F1 score for positive class, 89.03%
+Confusion matrix,
+kfold accuracy, [0.89       0.89755556 0.89088889 0.88844444 0.88888889 0.89377778
+ 0.89222222 0.88511111 0.882      0.88711111]
+[[2219  305]
+ [ 245 2231]]
+time taken by model, 12.917999744415283
+starting forest model
+	forest model declared
+pred made, accuracy generating
+
+
+
+STATISTICS FOR RANDOM FOREST MODEL
+Accuracy score, 84.54%
+Precision for negative class, 84.76%
+Precision for positive class, 84.32%
+Recall for negative class, 84.59%
+Recall for positive class, 84.49%
+F1 score for negative class, 84.67%
+F1 score for positive class, 84.41%
+Confusion matrix,
+kfold accuracy: [0.85266667 0.85933333 0.85422222 0.866      0.852      0.85177778
+ 0.844      0.85133333 0.84444444 0.85488889]
+[[2135  389]
+ [ 384 2092]]
+time taken by model, 3852.435266971588
+
+Process finished with exit code 0

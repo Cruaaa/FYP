@@ -1,0 +1,23 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+starting forest model
+forest model declared
+pred made, accuracy generating
+
+
+
+STATISTICS FOR RANDOM FOREST MODEL
+Accuracy score, 85.52%
+Precision for negative class, 85.94%
+Precision for positive class, 85.12%
+Recall for negative class, 84.48%
+Recall for positive class, 86.53%
+F1 score for negative class, 85.21%
+F1 score for positive class, 85.82%
+Confusion matrix,
+kfold accuracy: [0.84666667 0.85577778 0.85244444 0.84844444 0.85577778 0.84933333
+ 0.85222222 0.85355556 0.86044444 0.84622222]
+[[2085  383]
+ [ 341 2191]]
+time taken by model, 2426.180049419403
+
+Process finished with exit code 0

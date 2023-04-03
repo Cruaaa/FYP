@@ -1,0 +1,20 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+
+
+
+STATISTICS FOR SVM MODEL
+Accuracy score, 86.18%
+Precision for negative class, 87.00%
+Precision for positive class, 85.40%
+Recall for negative class, 84.94%
+Recall for positive class, 87.41%
+F1 score for negative class, 85.96%
+F1 score for positive class, 86.39%
+Confusion matrix,
+kfold accuracy, [0.87133333 0.86777778 0.86844444 0.87377778 0.872      0.866
+ 0.86933333 0.86444444 0.87088889 0.87155556]
+[[2115  375]
+ [ 316 2194]]
+time taken by model, 48.92532753944397
+
+Process finished with exit code 0

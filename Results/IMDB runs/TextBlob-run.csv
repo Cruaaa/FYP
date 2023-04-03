@@ -1,0 +1,16 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Textblob\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Textblob\main.py" 
+Predicted  negative  positive    All
+Actual                              
+negative      10394     14606  25000
+positive       2842     22158  25000
+All           13236     36764  50000
+Positive precision, 0.60
+Negative precision, 0.79
+Positive recall, 0.89
+Negative recall, 0.42
+Positive F1 score, 0.72
+Negative F1 score, 0.54
+accuracy, 0.65
+time taken by model, 43.617323875427246
+
+Process finished with exit code 0

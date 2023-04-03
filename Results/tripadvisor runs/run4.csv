@@ -1,0 +1,69 @@
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+(20491, 2)
+(2050,) (2050,)
+(18441,) (18441,)
+STATISTICS FOR MNB MODEL
+Accuracy score, 44.15%
+Precision for negative class, 47.84%
+Precision for positive class, 47.84%
+Recall for negative class, 44.15%
+Recall for positive class, 44.15%
+F1 score for negative class, 27.42%
+F1 score for positive class, 27.42%
+Confusion matrix,
+kfold accuracy, [0.44281843 0.44360087 0.44143167 0.44414317 0.44251627 0.44251627
+ 0.44305857 0.44197397 0.44360087 0.44305857]
+[[  1   0   0  10 128]
+ [  0   0   0   8 157]
+ [  0   0   0   6 221]
+ [  0   0   0   2 615]
+ [  0   0   0   0 902]]
+time taken by model, 0.2742762565612793
+5
+[1.63905826e-07 1.45057186e-05 5.80555908e-05 2.33118951e-01
+ 7.66808324e-01]
+
+
+
+STATISTICS FOR SVM MODEL
+Accuracy score, 60.15%
+Precision for negative class, 58.16%
+Precision for positive class, 58.16%
+Recall for negative class, 60.15%
+Recall for positive class, 60.15%
+F1 score for negative class, 58.75%
+F1 score for positive class, 58.75%
+Confusion matrix,
+kfold accuracy, [0.57398374 0.60357918 0.60032538 0.58785249 0.5824295  0.59110629
+ 0.5840564  0.59164859 0.60791757 0.5808026 ]
+[[ 81  37  11   5   5]
+ [ 34  55  38  26  12]
+ [  9  31  54  98  35]
+ [  5  13  33 307 259]
+ [  2   4   4 156 736]]
+time taken by model, 8.484067440032959
+starting forest model
+forest model declared
+pred made, accuracy generating
+
+
+
+STATISTICS FOR RANDOM FOREST MODEL
+Accuracy score, 52.05%
+Precision for negative class, 49.60%
+Precision for positive class, 49.60%
+Recall for negative class, 52.05%
+Recall for positive class, 52.05%
+F1 score for negative class, 43.84%
+F1 score for positive class, 43.84%
+Confusion matrix,
+kfold accuracy: [0.51056911 0.52331887 0.50542299 0.50759219 0.5005423  0.51355748
+ 0.51898048 0.50759219 0.51084599 0.50976139]
+[[ 54   6   0  22  57]
+ [ 10   4   1  61  89]
+ [  4   1   1  99 122]
+ [  0   1   0 166 450]
+ [  0   0   0  60 842]]
+time taken by model, 1193.6747033596039
+
+Process finished with exit code 0

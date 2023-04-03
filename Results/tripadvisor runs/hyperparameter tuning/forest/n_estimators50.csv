@@ -1,0 +1,29 @@
+n_estimators=50
+
+"C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\venv\Scripts\python.exe" "C:\Users\lmurr\OneDrive\Documents\College work\4th Year\Final Year Project\Final Model\main.py" 
+(20491, 2)
+starting forest model
+forest model declared
+pred made, accuracy generating
+
+
+
+STATISTICS FOR RANDOM FOREST MODEL
+Accuracy score, 50.98%
+Precision for negative class, 47.44%
+Precision for positive class, 47.44%
+Recall for negative class, 50.98%
+Recall for positive class, 50.98%
+F1 score for negative class, 43.72%
+F1 score for positive class, 43.72%
+Confusion matrix,
+kfold accuracy: [0.51490515 0.5016269  0.51030369 0.52169197 0.50921909 0.52277657
+ 0.5010846  0.51572668 0.51898048 0.51789588]
+[[ 44  12   0  24  51]
+ [ 11  11   4  60  94]
+ [  2   5   3 109 126]
+ [  0   1   1 168 405]
+ [  0   1   0  99 819]]
+time taken by model, 601.161780834198
+
+Process finished with exit code 0
